@@ -179,7 +179,7 @@ if f_finished:
     ''
     ''
     ''
-    time.sleep(300)
+    time.sleep(3)
     st.image('R-C.jpg')
     st.write('就问你服不服?')
     st.write('have question? Write to me: socks_to_clean@shsid.com')
