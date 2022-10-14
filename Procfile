@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run helloworld.py
+web: sh setup.sh && streamlit run 6174.py
