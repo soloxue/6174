@@ -178,9 +178,9 @@ if f_finished:
             history.append(diff)
     ''
     ''
-    ''
-    time.sleep(3)
     st.image('R-C.jpg')
+    ''
+    st.audio('fubufu.m4a')
     st.write('就问你服不服?')
     st.write('have question? Write to me: socks_to_clean@shsid.com')
     st.write('欢迎微信红包、转账。。。 ☸❤')
