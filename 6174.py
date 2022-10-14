@@ -176,3 +176,10 @@ if f_finished:
         else:
             x = diff
             history.append(diff)
+
+            
+''
+''
+''
+st.write('就问你服不服?')
+st.write('write to me: hehe@hehe.com')
