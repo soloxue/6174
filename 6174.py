@@ -176,10 +176,9 @@ if f_finished:
         else:
             x = diff
             history.append(diff)
-
-            
-''
-''
-''
-st.write('就问你服不服?')
-st.write('write to me: hehe@hehe.com')
+    ''
+    ''
+    ''
+    st.write('就问你服不服?')
+    st.write('have question? Write to me: socks_to_clean@shsid.com')
+    st.write('欢迎微信红包、转账。。。')
