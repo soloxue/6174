@@ -179,6 +179,8 @@ if f_finished:
     ''
     ''
     ''
+    time.sleep(300)
+    st.image('R-C.jpg')
     st.write('就问你服不服?')
     st.write('have question? Write to me: socks_to_clean@shsid.com')
     st.write('欢迎微信红包、转账。。。 ☸❤')
