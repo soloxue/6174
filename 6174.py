@@ -100,7 +100,7 @@ st.markdown('''
 ''
 ''
 ''
-st.header('轮到你来试试了')
+st.header('轮到你来试试了 👇')
 number = st.text_input('请挑选个整数试试看')
 # st.write(type(number))
 
@@ -181,4 +181,4 @@ if f_finished:
     ''
     st.write('就问你服不服?')
     st.write('have question? Write to me: socks_to_clean@shsid.com')
-    st.write('欢迎微信红包、转账。。。')
+    st.write('欢迎微信红包、转账。。。 ☸❤')
