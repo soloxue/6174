@@ -7,6 +7,8 @@ import time
 ck = None
 f_finished = None
 
+st.markdown('$\Rightarrow \rightarrow$')
+
 st.title('不可思议的游戏：数字陷阱')
 
 ''
