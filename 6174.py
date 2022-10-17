@@ -7,8 +7,6 @@ import time
 ck = None
 f_finished = None
 
-st.markdown('$\Rightarrow \rightarrow$')
-
 st.title('不可思议的游戏：数字陷阱')
 
 ''
@@ -22,7 +20,7 @@ st.markdown('''
 4. 两数相减得到一个新的整数。
 5. 如果新数的位数小于第一步里原数的位数，就添加‘0’来凑足新数的位数。
 6. 对新数重复以上第2到第5步。
-7. 经过几次 `排序` $\Rightarrow$ `相减` $\Rightarrow$ `排序`  $\Rightarrow$ `相减`  的重复计算之后（有时候只需要一两次！）, 最终一定会掉进一个“数字陷阱”里，你相信吗？ 👀😜
+7. 经过几次 `排序` $\Rightarrow$ `相减` $\Rightarrow$ `排序`  $\Rightarrow$ `相减`  的重复计算之后（有时候只需要一两次！）, 最终一定会掉进一个“数字陷阱”里，你相信吗？ 😜
 
 ------
 ''')
@@ -71,7 +69,7 @@ with c3:
     7. 72 - 27 = 45
     8. 54 - 45 = 9
     9. $\cdots \cdots$
-    10. 陷在 9 $\rightarrow$ 81 \rightarrow 63 \rightarrow 27 \rightarrow 45 再到9的循环这个陷阱圈里了
+    10. 陷在 $9 \Rightarrow 81 \Rightarrow 63 \Rightarrow 27 \Rightarrow 45$ 再到9的循环这个陷阱圈里了
     ''')
 
 
