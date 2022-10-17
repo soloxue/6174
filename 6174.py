@@ -69,7 +69,7 @@ with c3:
     7. 72 - 27 = 45
     8. 54 - 45 = 9
     9. $\cdots \cdots$
-    10. 陷在 $9 \Rightarrow \leftarrow \Leftarrow \rightarrow 81 \rightarrow 63 \rightarrow 27 \rightarrow 45$再到9的循环这个陷阱圈里了
+    10. 陷在 9 $\rightarrow$ 81 \rightarrow 63 \rightarrow 27 \rightarrow 45 再到9的循环这个陷阱圈里了
     ''')
 
 
