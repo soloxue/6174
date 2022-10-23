@@ -188,7 +188,7 @@ if f_finished:
             history.append(diff)
     ''
     ''
-    st.image('R-C.jpg')
+    st.image('hellooo.jpg')
     ''
     st.audio('就问你服不服.m4a')
     st.write('就问你服不服?')
